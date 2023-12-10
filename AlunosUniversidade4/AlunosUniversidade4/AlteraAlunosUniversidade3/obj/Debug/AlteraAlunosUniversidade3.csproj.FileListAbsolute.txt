@@ -1,0 +1,37 @@
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\AlteraAlunosUniversidade3\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.Form1.resources
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\AlteraAlunosUniversidade3\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.Properties.Resources.resources
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\AlteraAlunosUniversidade3\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csproj.GenerateResource.Cache
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\AlteraAlunosUniversidade3\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.exe.config
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\AlteraAlunosUniversidade3\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.exe
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\AlteraAlunosUniversidade3\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.pdb
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\AlteraAlunosUniversidade3\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.exe
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\AlteraAlunosUniversidade3\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.pdb
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.exe.config
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.exe
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.pdb
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.exe
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.pdb
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csprojResolveAssemblyReference.cache
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.Form2.resources
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.Properties.Resources.resources
+C:\D\Aulas      -    2015 - 2º semestre\TE\AlteraAlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csproj.GenerateResource.Cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.Form2.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.exe.config
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\bin\Debug\AlteraAlunosUniversidade3.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csproj.AssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.Form2.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.Properties.Resources.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csproj.GenerateResource.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.csproj.CoreCompileInputs.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\AlunosUniversidade4\AlteraAlunosUniversidade3\obj\Debug\AlteraAlunosUniversidade3.pdb

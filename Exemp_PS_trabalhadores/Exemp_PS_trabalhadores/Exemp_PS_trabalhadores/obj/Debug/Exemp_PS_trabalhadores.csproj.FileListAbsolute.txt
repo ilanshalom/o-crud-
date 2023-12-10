@@ -1,0 +1,44 @@
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csprojAssemblyReference.cache
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.Form1.resources
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.Properties.Resources.resources
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.GenerateResource.cache
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.CoreCompileInputs.cache
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.exe.config
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.exe
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.pdb
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\MySql.Data.dll
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\MySql.Data.xml
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.CopyComplete
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.exe
+C:\Users\mfple\Desktop\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\MySql.Data.xml
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.CopyComplete
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\MySql.Data.dll
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Google.Protobuf.dll
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\BouncyCastle.Crypto.dll
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Renci.SshNet.dll
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.exe.config
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Exemp_PS_trabalhadores.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Google.Protobuf.dll
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\BouncyCastle.Crypto.dll
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\Renci.SshNet.dll
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\bin\Debug\MySql.Data.xml
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.AssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.Form1.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.Properties.Resources.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.GenerateResource.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.CoreCompileInputs.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.csproj.CopyComplete
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 06 - TE - 2019 - BD 2\Exemp_PS_trabalhadores\Exemp_PS_trabalhadores\obj\Debug\Exemp_PS_trabalhadores.pdb
